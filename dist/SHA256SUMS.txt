@@ -1,0 +1,1 @@
+524b3f55bbe0ef936d5fbe307c86c90c99d36906cfd8e25ea194600c3c9b0ba1  subscript-0.1.0-unsigned.xpi
